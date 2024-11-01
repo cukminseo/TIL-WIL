@@ -5,4 +5,4 @@
 - 오늘 한일 및 회고 : [TIL-WIL](https://github.com/luckyvickyricky/TIL-WIL) 일간 markdown 작성
 - 주간 회고 : [TIL-WIL](https://github.com/luckyvickyricky/TIL-WIL/pulls)에서의 주간 브랜치 PR 작성
 
-### ⚠️이 Repo는 특수한 목적으로 작성되었으므로 github의 일반적인 Convention 규칙을 따르지않습니다⚠️
+### ⚠️이 Repo는 github Convention 규칙을 따르지않습니다⚠️
